@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: #881539;
+    display: flex;
+    flex-direction: column;
+    color: black;
+  }
+  h1{
+    text-align: center;
+    color: black;
+  }
+  form {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  .campo {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input, select, textarea {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  textarea {
+    height: 100px;
+  }
+  
+  input[type="submit"] {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+.inferno{
+    margin-left: 38%;
+}

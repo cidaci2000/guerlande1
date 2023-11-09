@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+    background-color: #df9fb4;
+  }
+  
+  header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  main {
+    width: 800px;
+    margin: 0 auto;
+  }
+  
+  section {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .menu {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  .conteudo {
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  .btn {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    min-width: 100%;
+  }
